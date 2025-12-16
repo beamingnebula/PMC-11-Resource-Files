@@ -4,7 +4,7 @@ Official resource file repository for Parkview Medical College 11th Batch.
 
 ## Overview
 
-This repository serves as the central storage and documentation hub for all academic resources, materials, and files referenced on the [Parkview Medical College 11th Batch official website](https://parkviewmedicalcollege11.org). It provides organized access to course materials, notes, and other educational resources for batch members.
+This repository serves as the central storage and documentation hub for all academic resources, materials, and files referenced on the [Parkview Medical College 11th Batch official website](https://pmc11.vercel.app/). It provides organized access to course materials, notes, and other educational resources for batch members.
 
 ## Purpose
 
